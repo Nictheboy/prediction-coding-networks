@@ -1,0 +1,12 @@
+[project]
+name = "pcn-learn"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "nictheboy",email = "nictheboy@outlook.com"},
+]
+requires-python = "==3.12.*"
+dependencies = [
+    "numpy",
+    "pygame",
+]
